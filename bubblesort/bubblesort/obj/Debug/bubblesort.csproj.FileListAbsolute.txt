@@ -1,0 +1,6 @@
+C:\Users\rafael.bretas\Documents\Visual Studio 2015\Projects\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config
+C:\Users\rafael.bretas\Documents\Visual Studio 2015\Projects\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+C:\Users\rafael.bretas\Documents\Visual Studio 2015\Projects\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+C:\Users\rafael.bretas\Documents\Visual Studio 2015\Projects\bubblesort\bubblesort\obj\Debug\bubblesort.csprojResolveAssemblyReference.cache
+C:\Users\rafael.bretas\Documents\Visual Studio 2015\Projects\bubblesort\bubblesort\obj\Debug\bubblesort.exe
+C:\Users\rafael.bretas\Documents\Visual Studio 2015\Projects\bubblesort\bubblesort\obj\Debug\bubblesort.pdb
